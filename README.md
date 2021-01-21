@@ -1,1 +1,1 @@
-# telcochurn
+# Telco Churn Classification Project
